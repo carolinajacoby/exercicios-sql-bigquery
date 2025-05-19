@@ -7,5 +7,15 @@ Repositório com consultas SQL realizadas durante meus estudos no Google BigQuer
 - JOINs e Subqueries
 - Funções de agregação
 
-  ## Como executar:
-Copie os códigos e execute no console do BigQuery, conectando ao projeto correspondente.
+ ## 🛠️ Como usar
+
+1. Acesse seu projeto no [Google BigQuery](https://console.cloud.google.com/bigquery).
+2. Copie e cole os comandos SQL no console.
+3. Altere os nomes de tabelas e datasets conforme necessário.
+
+---
+
+🧩 Este repositório será atualizado conforme o avanço dos estudos.
+
+---
+
